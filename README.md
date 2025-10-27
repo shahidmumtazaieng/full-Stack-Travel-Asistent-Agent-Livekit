@@ -1,4 +1,4 @@
-# Investor Property - LiveKit Voice Agent Travel Assistant
+# TravelAI - LiveKit Voice Agent Travel Assistant
 
 A complete voice-enabled travel assistant application built with LiveKit, Next.js, and Python. This project provides a sophisticated travel planning experience through natural voice conversations, combining real-time communication with AI-powered travel recommendations.
 
@@ -305,4 +305,5 @@ The Python backend can be deployed using:
 - Write clear, descriptive commit messages
 - Add comments for complex logic
 - Test changes thoroughly before submitting
+
 - Update documentation as needed
