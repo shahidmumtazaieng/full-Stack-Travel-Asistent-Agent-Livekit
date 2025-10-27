@@ -1,0 +1,8 @@
+livekit-agents~=1.2
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
+serpapi
+pydantic>=2.0
+langchain-core
+langchain-google-genai
+langgraph

@@ -1,0 +1,19 @@
+[project]
+name = "livekit-voice-agent"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "livekit-agents[cartesia,elevenlabs,openai,silero,tavus,turn-detector,google]~=1.2",
+    "livekit-plugins-noise-cancellation~=0.2",
+    "python-dotenv>=1.1.1",
+    "serpapi",
+    "pydantic>=2.0",
+    "langchain-core",
+    "langchain-google-genai",
+    "langgraph",
+]
+
+[tool.uv.workspace]
+members = [
+    "livekit-voice-agent",
+]
